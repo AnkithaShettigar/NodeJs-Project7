@@ -18,7 +18,7 @@ const Bollywood = (req,res)=>{
                   describe:"Iconic actor, Raj Kapoor, is the pride of Bollywood cinema. His movies are timeless and are still very popular among the masses."  ,
                   descr:"Ranbir Raj Kapoor was the greatest showman of Indian cinema and a noted Indian film actor, producer and director. He is regarded as one of the greatest and most influential filmmakers and actors in the history of Indian cinema.At the age of ten, he appeared in films for the first time, in 1935's Inquilab. After acting in several films over the next 12 years, Raj Kapoor's big break came with the lead role in Neel Kamal (1947) opposite Madhubala. In 1948, at the age of twenty-four, he established his own studio, R. K. Films, and became the youngest film director of his time making his directorial debut with Aag starring himself, Nargis, Kamini Kaushal and Premnath.His other hit films include - Awaara (1951), Shree 420 (1955), Chori Chori (1956), Jagte Raho (1956) Jis Desh Men Ganga Behti Hai (1960), Anhonee (1952), Aah (1953), Anari (1959), Chhalia (1960) and Dil Hi To Hai (1963). He also produced the hit social films Boot Polish (1954). and Ab Dilli Door Nahin (1957).",
                   tags:['Travel','/ August 21 2017'],
-                //   image:require("../pics/Raj-Kapoor.png")
+                  // image:require("../pics/Raj-Kapoor.png")
             
               },
               {   
