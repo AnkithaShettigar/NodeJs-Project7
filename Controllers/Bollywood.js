@@ -71,7 +71,41 @@ const Bollywood = (req,res)=>{
                   tags:['Travel','/ August 21 2017'],
                   image:"https://3.bp.blogspot.com/_9-yGsJTYHTQ/TIoWRfKpNZI/AAAAAAAAAUQ/vqkREFXfR7A/s1600/Dharmendra+1973.JPG"
             
-              }
+              },
+              {
+                id:23,
+                heading:"URI: The Surgical Strike",
+                descr:"The surgical strikes happened on the 29th of September. Before that, I was supposed to do a film called “Raat Baaki” with Fawad Khan and Katrina Kaif, which actually got shelved because of the Uri attacks, because Pakistani artists were not allowed to work in India. Within 10 days, the surgical strikes happened. So, while everybody was figuring out what to do with the film, I was more curious to know what happened during the surgical strikes.I was always interested in the army, I wanted to get into the army. As a Kashmiri Pandit, I have been hearing about terrorism from childhood. Directly or indirectly, we have also been victims of terrorism. So, when I heard about the strikes, I wanted to know how the army pulled this off. By the end of my six months of research, I realized this was one of the best covert military operations ever conducted by the Indian Army and I knew I had to tell this story.",
+                image:"https://img.jakpost.net/c/2019/02/07/2019_02_07_64949_1549530654._large.jpg"
+        
+            },
+            {   
+                id:24,
+                category:"mainSecond",
+                number:"2",
+                heading:"'URI: The Surgical Strike'",
+                descr:"The surgical strikes happened on the 29th of September. Before that, I was supposed to do a film called “Raat Baaki” with Fawad Khan and Katrina Kaif, which actually got shelved because of the Uri attacks, because Pakistani artists were not allowed to work in India. Within 10 days, the surgical strikes happened. So, while everybody was figuring out what to do with the film, I was more curious to know what happened during the surgical strikes.I was always interested in the army, I wanted to get into the army. As a Kashmiri Pandit, I have been hearing about terrorism from childhood. Directly or indirectly, we have also been victims of terrorism. So, when I heard about the strikes, I wanted to know how the army pulled this off. By the end of my six months of research, I realized this was one of the best covert military operations ever conducted by the Indian Army and I knew I had to tell this story.",
+                tags:['','/ August 21 2017'],
+                image:"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/uri--the-surgical-strike-hindi-et00062444-23-10-2020-12-18-15.jpg"
+            },
+            {   
+                id:25,
+                category:"mainSecond",
+                number:"3",
+                heading:"'URI: The Surgical Strike'",
+                descr:"The surgical strikes happened on the 29th of September. Before that, I was supposed to do a film called “Raat Baaki” with Fawad Khan and Katrina Kaif, which actually got shelved because of the Uri attacks, because Pakistani artists were not allowed to work in India. Within 10 days, the surgical strikes happened. So, while everybody was figuring out what to do with the film, I was more curious to know what happened during the surgical strikes.I was always interested in the army, I wanted to get into the army. As a Kashmiri Pandit, I have been hearing about terrorism from childhood. Directly or indirectly, we have also been victims of terrorism. So, when I heard about the strikes, I wanted to know how the army pulled this off. By the end of my six months of research, I realized this was one of the best covert military operations ever conducted by the Indian Army and I knew I had to tell this story.",
+                tags:['','/ August 21 2017'],
+                image:"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/uri--the-surgical-strike-hindi-et00062444-23-10-2020-12-18-15.jpg"
+            },
+            {   
+                id:26,
+                category:"mainSecond",
+                number:"4",
+                heading:"'URI: The Surgical Strike'",
+                descr:"The surgical strikes happened on the 29th of September. Before that, I was supposed to do a film called “Raat Baaki” with Fawad Khan and Katrina Kaif, which actually got shelved because of the Uri attacks, because Pakistani artists were not allowed to work in India. Within 10 days, the surgical strikes happened. So, while everybody was figuring out what to do with the film, I was more curious to know what happened during the surgical strikes.I was always interested in the army, I wanted to get into the army. As a Kashmiri Pandit, I have been hearing about terrorism from childhood. Directly or indirectly, we have also been victims of terrorism. So, when I heard about the strikes, I wanted to know how the army pulled this off. By the end of my six months of research, I realized this was one of the best covert military operations ever conducted by the Indian Army and I knew I had to tell this story.",
+                tags:['','/ August 21 2017'],
+                image:"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/uri--the-surgical-strike-hindi-et00062444-23-10-2020-12-18-15.jpg"
+            }
              
         ]
     )

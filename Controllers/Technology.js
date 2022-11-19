@@ -1,4 +1,4 @@
-const Tollywood = (req,res)=>{
+const Technology = (req,res)=>{
     res.send(
         [
             {   id:27,
@@ -64,10 +64,41 @@ const Tollywood = (req,res)=>{
                   tags:['Travel','/ August 21 2017'],
                   image:"https://as1.ftcdn.net/v2/jpg/03/23/41/68/1000_F_323416860_4MQO0Z7QzkuSP65CYLCAJq5Mmi9NQLBL.jpg"
             
-              }
+              },
+              {
+                id:34,
+                heading:"Technologies",
+                descr:"Technology is the application of scientific knowledge to the practical aims of human life or, as it is sometimes phrased, to the change and manipulation of the human environment.Whether Internet technology is making us stupid is widely debated. Some argue the Internet is reprogramming our brains for the worse, as seen by diminishing IQ scores, and that new technologies and platforms like the Internet are harming attention spams, the ability to concentrate, and perform simple tasks. Others argue that virtually all new technologies throughout history have been initially feared, that the Internet gives voice to diverse populations and equal access to information for the benefit of social advancement, and that changing how the brain works and how we access and process information is not necessarily bad",
+                image:"https://as2.ftcdn.net/v2/jpg/02/82/75/31/1000_F_282753146_V6ZHcruFiIauT4ecZyf9a2J066LD2K9N.jpg"
+        
+            },
+            {    
+                id:35,
+                category:"mainThird",
+                number:"2",
+                heading:"Construction Technology",
+                tags:['','/ August 21 2017'],
+                image:"https://as2.ftcdn.net/v2/jpg/02/45/84/43/1000_F_245844347_i71n9oyLXWUZ1tBkGaMOAfncfnUisgMR.jpg"
+            },
+            {   
+                id:36,
+                category:"mainThird",
+                number:"3",
+                heading:"Construction Technology",
+                tags:['','/ August 21 2017'],
+                image:"https://as2.ftcdn.net/v2/jpg/02/45/84/43/1000_F_245844347_i71n9oyLXWUZ1tBkGaMOAfncfnUisgMR.jpg"
+            },
+            {   
+                id:37,
+                category:"mainThird",
+                number:"4",
+                heading:"Construction Technology",
+                tags:['','/ August 21 2017'],
+                image:"https://as2.ftcdn.net/v2/jpg/02/45/84/43/1000_F_245844347_i71n9oyLXWUZ1tBkGaMOAfncfnUisgMR.jpg"
+            },
              
         ]
     )
 }
 
-module.exports.tollywoodData = Tollywood;
+module.exports.technologyData = Technology;

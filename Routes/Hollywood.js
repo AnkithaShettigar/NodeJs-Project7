@@ -1,10 +1,10 @@
 const express = require('express');
 
 const app = express();
-const data = require("../Controllers/Tollywood");
+const data = require("../Controllers/Hollywood");
 
 
 const dataRouter = express.Router();
-dataRouter.route('/tollywood').get(data.tollywoodData)
+dataRouter.route('/hollywood').get(data.hollywoodData)
 
 module.exports = dataRouter;
