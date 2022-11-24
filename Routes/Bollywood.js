@@ -6,5 +6,9 @@ const data = require("../Controllers/Bollywood");
 
 const dataRouter = express.Router();
 dataRouter.route('/bollywood').get(data.bollywoodData)
+dataRouter.get('/bollywood/:id',(req,res)=>{
+    console.log(req.params.id);
+    res.send(data)
+})
 
 module.exports = dataRouter;

@@ -3,6 +3,7 @@ const Home = (req,res)=>{
         [
             {
                 id:1,
+                category:"top1",
                 heading:"Udaipur, Rajasthan - The City of Lakes",
                 image:"https://as1.ftcdn.net/v2/jpg/01/30/12/98/1000_F_130129868_8hyrv8S3yTZvMdUSAYxADf8Ta8RPgojf.jpg",
                 descr:"Udaipur (pronunciation (help·info)) (ISO 15919: Udayapura), historically named as Udayapura, is a city and municipal corporation in Udaipur district of the state of Rajasthan, India.[3][4] It is the administrative headquarter of Udaipur district. It is the historic capital of the kingdom of Mewar in the former Rajputana Agency. It was founded in 1559 by Udai Singh II of the Sisodia clan of Rajput,[5] when he shifted his capital from the city of Chittorgarh to Udaipur after Chittorgarh was besieged by Akbar. It remained as the capital city till 1818 when it became a British princely state,[5] and thereafter the Mewar province became a part of Rajasthan when India gained independence in 1947"
@@ -124,6 +125,27 @@ const Home = (req,res)=>{
                 heading:"Kanyakumari,Tamil Nadu",
                 descr:"Kanyakumari offers the marvellous confluence of the Bay of Bengal, the Arabian Sea and the Indian ocean meeting together at a point. But, this is not a miracle, the miracle lies in the beauty that the water of three seas does not mix, you can clearly distinguish between the turquoise blue, deep blue and sea green waters of the three seas. To enjoy the best view of sunset and sunrise, you can visit the Triveni Sangam point and the famous View tower.The town has a mountainous terrain with elevated patches of hills, coconut trees and lined with paddy fields. Kanyakumari is also the only place in India where you can observe the sunrise and sunset at the same beach.The town is not only popular for its unique phenomenon but also its temples and the Vivekananda Rock Memorial among other iconic monuments.",
                 image:"https://as1.ftcdn.net/v2/jpg/01/27/29/86/1000_F_127298629_MAnE9PuYwv8zhiyr87qq9buqZt5bIl9V.jpg"
+        
+            },
+            {   
+                category:"mainPage",
+                heading:"Catch waves with an adventure guide",
+                describe:"Gujarat is vastly underrated and it's a mystery to us ehy the region isn't more well-known as a tourist destination.It has a plethora of temples and places.Gujarat is vastly underrated and it's a mystery to us ehy the region isn't more well-known as a tourist destination.It has a plethora of temples and places.",
+                tags:["TECH","/ TODAY AT 11:54"]
+        
+            },
+            {   
+                category:"mainPage",
+                heading:"Catch waves with an adventure guide",
+                describe:"Gujarat is vastly underrated and it's a mystery to us ehy the region isn't more well-known as a tourist destination.It has a plethora of temples and places.Gujarat is vastly underrated and it's a mystery to us ehy the region isn't more well-known as a tourist destination.It has a plethora of temples and places.",
+                tags:["STYLE","/ AUGUST 21 2017"]
+        
+            },
+            {   
+                category:"mainPage",
+                heading:"Catch waves with an adventure guide",
+                describe:"Gujarat is vastly underrated and it's a mystery to us ehy the region isn't more well-known as a tourist destination.It has a plethora of temples and places.Gujarat is vastly underrated and it's a mystery to us ehy the region isn't more well-known as a tourist destination.It has a plethora of temples and places.",
+                tags:["TECH","/ AUGUST 21 2017"]
         
             }
              
